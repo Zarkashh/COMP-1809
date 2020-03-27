@@ -1,0 +1,8 @@
+How do you see the files changed within each commit from git log?
+You can see the files changed within each commit from git log by tracking and seeing what changes have been made.
+They are usually color coded, you can go to history or see changes in order to see the changes.
+How do you see the contents of what changed within each file from the git log?
+The contents changed will be shown almost as a timeline, which shows what was changed and when it was changed.
+git log allows you to track the changes, incase you made a mistake so you can go back to the old one.
+What does HEAD refer to in the context of git? 
+HEAD is a reference to the last commit made. It varies for every branch, so each time you click a new branch, HEAD will be pointed there.
